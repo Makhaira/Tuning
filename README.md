@@ -1,5 +1,4 @@
-# Tuning
-Community Tuning Guide for FDM Printers
+# Community Tuning Guide for FDM Printers
 
 
 This is not an instruction manual. It is not a template to great prints. It is not the only way of doing things.
