@@ -10,5 +10,13 @@ This guide assumes that you've already done everything in the Setup Guide for yo
 
 Fair warning - you are not going to progress from the first step to the last step in a straight line and then declare "done!". You are going to iterate. Potentially lots.
 
-1. [PID!](pid.md)
-2. 
+1. [PID](pid.md)
+2. [Temperature](temperature.md)
+3. [Flow/Extrusion Multiplier](flow.md)
+4. [Bed Mesh a.k.a "Squares!"](bed_mesh.md)
+5. [Input Shaper](input_shaper.md)
+6. [Pressure Advance](pressure_advance.md)
+7. [Retraction](retraction.md)
+8. [Top Flow](top_flow.md)
+9. [Overlap Percentage](overlap.md)
+10. [Final Thoughts](final.md)
