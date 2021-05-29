@@ -17,6 +17,8 @@ Don't forget to save_config afterwards. It's annoying when you forget.
 
 1. If you find that after a period of time your heaters set themselves to zero, you're probably reaching idle timeout in klipper. You can change this in printer.cfg (it's in seconds).
 
+[Back](README.md)
+
 Further reading: 
 https://github.com/KevinOConnor/klipper/blob/master/docs/Config_checks.md
 https://en.wikipedia.org/wiki/PID_controller
