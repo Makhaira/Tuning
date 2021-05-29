@@ -7,3 +7,5 @@ Height-wise, I just slice it such that the top section is representative of a "r
 Most people find starting around 85% puts you in the right area, but don't be surprised to end up anywhere from low 80's to low 90's.
 
 NOTE: Now an entirely optional thing you can do to further improve your top surface is to also play around with your extrusion width. For a 0.4mm nozzle, try setting your top layer extrusion width to around 0.32. This results in a greater number of passes with the nozzle, which also overlaps the previous layer to a greater degree than normal. The result? Some silky smooth top layers with a fraction of the time impact you get from ironing.
+
+[Back](README.md)

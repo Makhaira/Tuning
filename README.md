@@ -9,6 +9,7 @@ This guide assumes that you've already done everything in the Setup Guide for yo
 
 Fair warning - you are not going to progress from the first step to the last step in a straight line and then declare "done!". You are going to iterate. Potentially lots.
 
+0. [Rotation](rotation.md)
 1. [PID](pid.md)
 2. [Temperature](temperature.md)
 3. [Flow/Extrusion Multiplier](flow.md)

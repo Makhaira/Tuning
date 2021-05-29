@@ -7,3 +7,5 @@ Part orientation matters - If you have your seams set to a specific location (e.
 I really hope this has been of use to you - I'd welcome any constructive comments on this, or even just to know it was helpful. I don't intend to turn this into a full step-by-step illustrated guide, it's very much just a set of guidance scribbles.
 
 Oh, and if you find some better ways of doing things? Write it down and share it. 
+
+[Back](README.md)

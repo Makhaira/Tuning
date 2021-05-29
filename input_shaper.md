@@ -5,3 +5,5 @@ Input Shaping is not a new technique, but applying it to 3D printing is relative
 Tip: if you go the route of the accelerometer, I suggest leaving the wires plugged into your Raspberry Pi and tucked away somewhere - if you do maintenance on your printer such as replacing belts, changing tensions etc then you're going to need to re-run this. Not having to flip your printer is a real positive.
 
 Now go forth, make printer go "brrrr"....
+
+[Back](README.md)

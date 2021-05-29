@@ -10,3 +10,8 @@ The easiest way for this is using the inbuilt calibration tool in SuperSlicer1. 
 If you're not quite sure what temperature to go with (it's entirely common to see +/- 5C as an acceptable window) then pick the middle one for now - tuning retraction later may give you a better idea.
 
 NOTE: A more complex method but one that is useful for in-depth tuning is doing a series of overhang towers (lots of STLs online). These typically look a bit like geometric flowers, with "petals" of increasingly severe overhangs, and you print several at different temperatures in order to give you that set of temperature/fan combinations.
+
+[Back](README.md)
+
+Links:
+https://github.com/supermerill/SuperSlicer
