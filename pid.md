@@ -8,9 +8,15 @@ Depending on your ambient temperature in the room, what temperatures you're heat
 
 So now that you've heat soaked the printer, THEN run the PID calibration on your hotend and bed. I think there is marginal if any benefit in running it on the hotend, however it can absolutely affect your beds temperature accuracy.
 
+Example: PID_CALIBRATE HEATER=extruder TARGET=250
+
 Don't forget to save_config afterwards. It's annoying when you forget.
 
 
 
 
 1. If you find that after a period of time your heaters set themselves to zero, you're probably reaching idle timeout in klipper. You can change this in printer.cfg (it's in seconds).
+
+Further reading: 
+https://github.com/KevinOConnor/klipper/blob/master/docs/Config_checks.md
+https://en.wikipedia.org/wiki/PID_controller
