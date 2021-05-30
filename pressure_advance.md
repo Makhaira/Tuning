@@ -2,4 +2,6 @@ Pressure advance is another parameter that has a really good klipper guide for i
 
 NOTE: Tuning Pressure Advance is one of the steps that may mean you have to tweak your Flow/Extrusion Multiplier again. Or not. This is where experience and iteration come into play.
 
+Link: https://www.klipper3d.org/Pressure_Advance.html
+
 [Back](README.md)
