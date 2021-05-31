@@ -6,4 +6,6 @@ Tip: if you go the route of the accelerometer, I suggest leaving the wires plugg
 
 Now go forth, make printer go "brrrr"....
 
+Using accelerometer: https://www.klipper3d.org/Measuring_Resonances.html
+
 [Back](README.md)
