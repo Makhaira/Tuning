@@ -13,10 +13,10 @@ This will get you pretty much bang on target, however, it's not foolproof. Do no
 
 
 What to look out for:
-* Does the bearing fit snugly without a lot of force?
-If the bearing too big for the hole, decrease extrusion multiplier
+* Does the bearing fit snugly without needing a lot of force?
+If the bearing too big for the hole, try decreasing the extrusion multiplier
 
-* Do all of the bearings fit? Great, you're almost there.
+* Does the bearing fit into all of the parts? Great, you're almost there!
 Choose the extrusion multiplier that has the fewest defects in the side walls. If there are small holes, you may need to choose a slightly higher value.
 
 
