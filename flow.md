@@ -16,6 +16,8 @@ What to look out for:
 * Does the bearing fit snugly without needing a lot of force?
 If the bearing too big for the hole, try decreasing the extrusion multiplier
 
+* At this point, don't worry about the first layer or the top finish - SuperSlicers has individual settings for those that we'll resolve later
+
 * Does the bearing fit into all of the parts? Great, you're almost there!
 Choose the extrusion multiplier that has the fewest defects in the side walls. If there are small holes, you may need to choose a slightly higher value.
 
